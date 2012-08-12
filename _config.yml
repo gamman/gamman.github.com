@@ -18,9 +18,9 @@ pygments: true
 #  twitter : username
 #  feedburner : feedname
 # 
-title : Embedded Vision
+title : Smart World
 tagline: Site Tagline 
-author :
+author : Ray Gamma
   name : Ray Gamma
   email : lflgamma@gmail.com
   github : gamman
@@ -79,9 +79,9 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change theme here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
+  #archive_path: /archive.html
+  #categories_path : /categories.html
+  #tags_path : /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

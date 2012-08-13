@@ -1,11 +1,11 @@
 ---
 layout: page
-title: welcome!
+title: welcome
 tagline: home 
 ---
 {% include JB/setup %}
 
-#recent posts.
+## recent posts.
 
 <ul class="posts">
   {% for post in site.posts %}
